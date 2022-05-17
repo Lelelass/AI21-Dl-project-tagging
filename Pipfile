@@ -10,6 +10,7 @@ matplotlib = "*"
 seaborn = "*"
 numpy = "*"
 beautifulsoup4 = "*"
+wordcloud = "*"
 
 [dev-packages]
 
