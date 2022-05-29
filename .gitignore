@@ -2,6 +2,7 @@ todo
 data
 Pipfile.lock
 .DS_Store
+.vscode
 
 
 # Byte-compiled / optimized / DLL files
